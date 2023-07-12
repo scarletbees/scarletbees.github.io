@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: my blog :D
-description: awawawawawawawawawawawawa :3333
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: beeblog :)
