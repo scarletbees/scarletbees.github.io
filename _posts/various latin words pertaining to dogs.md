@@ -5,10 +5,10 @@ tags: [dog, latin, linguistics, etymology]
 author: scarlet (thats me :D)
 ---
 ### 3 min read :3
-most european languages settled on one or two common words for 'dog' pretty early on, but latin had a few, and i wanna talk about them :D  
+most european languages settled on one or two common words for 'dog' pretty early on, but latin had a few, and i wanna talk about them :D 
 
-the primary word for any general dog in latin comes from the same Proto-Indo-European root as 'hound' in english, and 'hund' in norwegian and german. the root in PIE was  \*ḱwṓ, \*ḱun-, and became *canēs* then later *canis* in latin. canis becomes *chien* in french and the formal spanish *can*. but *canis* is just the general word for any dog, but most often would describe a medium-large adult dog, like this :DDD ![adult german shepherd dog laying on the floor looking inquisitively into the camera](adult-riya-kitchen.jpg)  
-
+the primary word for any general dog in latin comes from the same Proto-Indo-European root as 'hound' in english, and 'hund' in norwegian and german. the root in PIE was  \*ḱwṓ, \*ḱun-, and became *canēs* then later *canis* in latin. canis becomes *chien* in french and the formal spanish *can*. but *canis* is just the general word for any dog, but most often would describe a medium-large adult dog, like this :DDD ![image](https://github.com/scarletbees/scarletbees.github.io/assets/132917722/0908078f-5e56-45c3-abc6-e6696f0ce624)
+   
 but there are plenty sillier words ^-^  
 
 we'll start w *catulus, catellus, canīculus* and *canīcula*. these are all words that would be used to describe this dog: ![german shepherd puppy laying sideways on a grey couch with a pink collar on. attached to a lead. her name is riya and i love her](eepy-puppy-riya.png)
